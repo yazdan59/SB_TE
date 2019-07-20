@@ -9,11 +9,11 @@ The Score for this course would be taken through several parts including Take Ho
 # Lecture Schedule
 | Date | Title | Description | Instructor |Reference |
 | --- | --- | --- | --- | --- |
-| 98/6/26 | Introduction | -- | Dr. Asgari | -- |
-| 98/7/2 | Finding a Suitable Research Proposal | -- | Dr. Mazlomi | -- |
-| 98/7/9 | Writing a Proposal, Literature Review | -- | Dr. Negahdari | -- |
-| 98/7/16 | Searching, Reading, and Writing Papers  | -- | Dr. Negahdari | -- |
-| 98/7/23 | Plagiarism in Scientific Research | -- | Dr. Negahdari | -- |
+| 98/6/26 | Introduction | Some Information about Course Contents, References, Exam Strategies, System definition in different contexts | Dr. Asgari | -- |
+| 98/7/2 | Students’ Seminar | -- | Dr. Asgari | -- |
+| 98/7/9 | Writing a Proposal, Literature Review | -- | Dr. Asgari | -- |
+| 98/7/16 | Searching, Reading, and Writing Papers  | -- | Dr. Asgari | -- |
+| 98/7/23 | Plagiarism in Scientific Research | -- | Dr. Asgari | -- |
 | 98/7/30 | Statistics | Introduction, R Software | Dr. Asgari | -- |
 | 98/8/14 | Statistics | Descriptive Statistics | Dr. Asgari | [(Slide)](/slides/Descriptive_Statistics.pdf) |
 | 98/8/21 | Statistics | Significance Tests, Parametric Tests | Dr. Asgari | [(Slide)](/slides/Significancy.pdf) |
