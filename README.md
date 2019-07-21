@@ -1,4 +1,4 @@
-# Systems Biology for Tissue-Engineering Students
+# Systems Biology for Tissue Engineering Students
 ## Overview
 Systems Biology is a field of biological science that aims to integrate all possible information related to molecules and their interactions as a network in various levels (organism, tissue, or living cell). This approach employs tools initially established in mathematics, physics, chemistry, and computer sciences. Systems Biology goal is to obtain some results which are not easily accessible solely based on reductionism methods with the currently available molecular biology tools. During this course, we are going to be familiar with some basics concepts and methods used in the Systems Biology approach.
 ## Instructors: 
