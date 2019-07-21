@@ -1,12 +1,13 @@
-# Systems Biology for Tissue-Engineering Students (Overview)
-
-# Instructors: 
+# Systems Biology for Tissue-Engineering Students
+## Overview
+Systems Biology is a field of biological science that aims to integrate all possible information related to molecules and their interactions as a network in various levels (organism, tissue, or living cell). This approach employs tools initially established in mathematics, physics, chemistry, and computer sciences. Systems Biology goal is to obtain some results which are not easily accessible solely based on reductionism methods with the currently available molecular biology tools. During this course, we are going to be familiar with some basics concepts and methods used in the Systems Biology approach.
+## Instructors: 
 Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
-# Time & Location: 
+## Time & Location: 
 Sep-Dec 2019, lectures are held on Tuesdays 10:00 to 12:00 AM at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
-# Exam
+## Exam
 The Score for this course would be taken through several parts including Take Home Exams for every session, some Assignments during the semester, Student' Seminars, and a Final Exam.
-# Lecture Schedule
+## Lecture Schedule
 | Date | Title | Description | Instructor |Reference |
 | --- | --- | --- | --- | --- |
 | 98/6/26 | Introduction | Some Information about Course Contents, References, Exam Strategies, System definition in different contexts | Dr. Asgari | Klipp, et al., Systems Biology in Practice,  John Wiley & Sons, 2005, Chapter 1<br>[(Slide)](/slides/01_Introduction.pdf) |
