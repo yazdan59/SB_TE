@@ -2,7 +2,7 @@
 ## Overview
 Systems Biology is a field of biological science that aims to integrate all possible information related to molecules and their interactions as a network in various levels (organism, tissue, or living cell). This approach employs tools initially established in mathematics, physics, chemistry, and computer sciences. Systems Biology goal is to obtain some results which are not easily accessible solely based on reductionism methods with the currently available molecular biology tools. During this course, we are going to be familiar with some basics concepts and methods used in the Systems Biology approach.
 ## Instructors: 
-Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
+Dr. Yazdan Asgari ([Webpage](https://yazdan59.github.io/))
 ## Time & Location: 
 Sep-Dec 2019, lectures are held on Tuesdays 10:00 to 12:00 AM at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
 ## Exam
